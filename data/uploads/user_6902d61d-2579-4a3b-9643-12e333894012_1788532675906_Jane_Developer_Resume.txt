@@ -1,0 +1,15 @@
+
+Jane Developer
+jane.dev@example.com | (555) 019-2834 | San Francisco, CA
+
+SUMMARY
+Senior Frontend Engineer with 5+ years of experience building delightful, high-performance web applications using React, TypeScript, Next.js, and Tailwind CSS.
+
+SKILLS
+React, TypeScript, Next.js, JavaScript, Tailwind CSS, GraphQL, Redux, HTML, CSS, Git, Jest, Playwright, UI/UX Design
+
+EXPERIENCE
+Frontend Developer | TechCorp (2021 - Present)
+- Developed modern web applications using React and TypeScript.
+- Implemented responsive design systems using Tailwind CSS.
+  
